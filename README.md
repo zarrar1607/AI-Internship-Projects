@@ -45,37 +45,37 @@ https://user-images.githubusercontent.com/61513813/157916990-1da21f8e-f832-4f84-
 ### Preview:
 ![image](https://user-images.githubusercontent.com/61513813/158061398-bd21a52d-28da-4eaa-8131-09627a29e91a.png)
 
-## 11. Drowsiness Detection Using Eye Aspect Ratio | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
-### File Name: [detect_drowsiness.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio/detect_drowsiness.py)
-### Preview:
-
-## 12. Head Pose Detection | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Head%20Pose%20Detection)
-### File Name: [HeadposeLandmarks.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Head%20Pose%20Detection/HeadposeLandmarks.py)
-### Preview:
-
-## 13. Object Recognition - Fashion using TensorFlow | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Object%20Recognition%20-%20Fashion%20using%20TensorFlow)
+## 11. Object Recognition - Fashion using TensorFlow | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Object%20Recognition%20-%20Fashion%20using%20TensorFlow)
 ### File Name: [fashion.ipynb](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Object%20Recognition%20-%20Fashion%20using%20TensorFlow/fashion.ipynb)
 ### Preview:
 ![image](https://user-images.githubusercontent.com/61513813/158063136-9d7f9f9f-1bc1-4a92-bbc0-167bca4a8429.png)
 
-## 14. Vehicle Speed Estimation using TensorFlow | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Vehicle%20Speed%20Estimation%20using%20TensorFlow)
+## 12. Vehicle Speed Estimation using TensorFlow | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Vehicle%20Speed%20Estimation%20using%20TensorFlow)
 ### File Name: [vehicle_detection_main.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Vehicle%20Speed%20Estimation%20using%20TensorFlow/vehicle_detection_main.py)
 ### Preview:
 https://user-images.githubusercontent.com/61513813/158066871-ef17f8f2-2131-42f6-895f-4a501958c950.mp4
 
 
-## 15. Traffic Sign Recognition Using Darknet/YOLO | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Traffic%20Sign%20Recognition%20Using%20Darknet)
+## 13. Traffic Sign Recognition Using Darknet/YOLO | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Traffic%20Sign%20Recognition%20Using%20Darknet)
 ### File Name: [yoloDetect.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Traffic%20Sign%20Recognition%20Using%20Darknet/yoloDetect.py)
 ### Preview:
 ![image](https://user-images.githubusercontent.com/61513813/158063570-a72e380e-944e-4272-bd4a-f19d6b1df3de.png)
 
-## 16. Social Distance Monitoring Using Darknet/YOLO | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Social%20Distance%20Monitoring%20Using%20Yolo)
+## 14. Social Distance Monitoring Using Darknet/YOLO | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Social%20Distance%20Monitoring%20Using%20Yolo)
 ### File Name: [detection.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Social%20Distance%20Monitoring%20Using%20Yolo/pyimagesearch/detection.py)
 ### Preview:
 https://user-images.githubusercontent.com/61513813/158063239-6836da49-3bac-4779-af39-029636a1afe6.mp4
 
-## 17. Speech Recognition And Text To Speech Conversion | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Speech%20Recognition%20And%20Text%20To%20Speech%20Conversion)
+## 15. Speech Recognition And Text To Speech Conversion | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Speech%20Recognition%20And%20Text%20To%20Speech%20Conversion)
 ### File Name: [speech.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Speech%20Recognition%20And%20Text%20To%20Speech%20Conversion/speech.py) & [tts.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Speech%20Recognition%20And%20Text%20To%20Speech%20Conversion/tts.py)
+
+## 16. Drowsiness Detection Using Eye Aspect Ratio | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
+### File Name: [detect_drowsiness.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio/detect_drowsiness.py)
+### Preview:
+
+## 17. Head Pose Detection | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Head%20Pose%20Detection)
+### File Name: [HeadposeLandmarks.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Head%20Pose%20Detection/HeadposeLandmarks.py)
+### Preview:
 
 ## 18. Tokenizing Using NLTK | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Tokenizing%20Using%20NLTK)
 ### File Name: [Tokenizing.ipynb](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Tokenizing%20Using%20NLTK/Tokenizing.ipynb)
