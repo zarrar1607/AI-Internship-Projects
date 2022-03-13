@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/61513813/157916990-1da21f8e-f832-4f84-
 ## 6. Face Counting using Harcascade | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Face%20Counting%20using%20Harcascade)
 ### File Name: [Face Count.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Face%20Counting%20using%20Harcascade/Face%20Count.py)
 ### Preview:
-https://user-images.githubusercontent.com/61513813/158064903-b807cb75-2f9a-4984-b963-b3646260abef.mp4
+![Output](https://user-images.githubusercontent.com/61513813/158066465-02ac72a2-5d7f-470f-8462-b80c6b9754f2.gif)
 
 ## 7. ROI Selector | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/ROI%20Selector)
 ### File Name: [Select ROI.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/ROI%20Selector/Select%20ROI.py)
