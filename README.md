@@ -64,6 +64,7 @@ https://user-images.githubusercontent.com/61513813/157916990-1da21f8e-f832-4f84-
 ## 15. Traffic Sign Recognition Using Darknet/YOLO | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Traffic%20Sign%20Recognition%20Using%20Darknet)
 ### File Name: [yoloDetect.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Traffic%20Sign%20Recognition%20Using%20Darknet/yoloDetect.py)
 ### Preview:
+![image](https://user-images.githubusercontent.com/61513813/158063570-a72e380e-944e-4272-bd4a-f19d6b1df3de.png)
 
 ## 16. Social Distance Monitoring Using Darknet/YOLO | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Social%20Distance%20Monitoring%20Using%20Yolo)
 ### File Name: [detection.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Social%20Distance%20Monitoring%20Using%20Yolo/pyimagesearch/detection.py)
@@ -72,12 +73,9 @@ https://user-images.githubusercontent.com/61513813/158063239-6836da49-3bac-4779-
 
 ## 17. Speech Recognition And Text To Speech Conversion | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Speech%20Recognition%20And%20Text%20To%20Speech%20Conversion)
 ### File Name: [speech.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Speech%20Recognition%20And%20Text%20To%20Speech%20Conversion/speech.py) & [tts.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Speech%20Recognition%20And%20Text%20To%20Speech%20Conversion/tts.py)
-### Preview:
 
 ## 18. Tokenizing Using NLTK | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Tokenizing%20Using%20NLTK)
 ### File Name: [Tokenizing.ipynb](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Tokenizing%20Using%20NLTK/Tokenizing.ipynb)
-### Preview:
 
 ## 19. Stemming in NLP | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Stemming%20in%20NLP)
 ### File Name: [Stemming.ipynb](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Stemming%20in%20NLP/Stemming.ipynb)
-### Preview:
