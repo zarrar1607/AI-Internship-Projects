@@ -12,6 +12,8 @@ https://user-images.githubusercontent.com/61513813/157916990-1da21f8e-f832-4f84-
 ## 3. Black and Whit dots Counting | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Black%20and%20Whit%20dots%20Counting)
 ### File Name: [Black Dot Counting.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Black%20and%20Whit%20dots%20Counting/Black%20Dot%20Counting.py) & [White Dot Counting.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Black%20and%20Whit%20dots%20Counting/White%20Dot%20Counting.py)
 ### Preview:
+![Black Dots](https://user-images.githubusercontent.com/61513813/158067142-c388c23d-fb0e-4429-a30f-22e2b2a61d48.PNG)
+![White Dots](https://user-images.githubusercontent.com/61513813/158067127-9d39540b-97f1-45a5-a69b-c1c42a231794.PNG)
 
 ## 4. Live Shape Detection | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Live%20Shape%20Detection)
 ### File Name: [Shape Detection.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Live%20Shape%20Detection/Shape%20Detection.py)
