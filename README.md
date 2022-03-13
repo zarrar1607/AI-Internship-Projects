@@ -48,6 +48,30 @@ https://user-images.githubusercontent.com/61513813/157916990-1da21f8e-f832-4f84-
 ### File Name: [detect_drowsiness.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio/detect_drowsiness.py)
 ### Preview:
 
-## 12. Drowsiness Detection Using Eye Aspect Ratio | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
+## 12. Head Pose Detection | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
+### File Name: [detect_drowsiness.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio/detect_drowsiness.py)
+### Preview:
+
+## 13. Object Recognition - Fashion using TensorFlow | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
+### File Name: [detect_drowsiness.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio/detect_drowsiness.py)
+### Preview:
+
+## 14. Vehicle Speed Estimation using TensorFlow | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
+### File Name: [detect_drowsiness.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio/detect_drowsiness.py)
+### Preview:
+
+## 15. Drowsiness Detection Using Eye Aspect Ratio | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
+### File Name: [detect_drowsiness.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio/detect_drowsiness.py)
+### Preview:
+
+## 16. Drowsiness Detection Using Eye Aspect Ratio | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
+### File Name: [detect_drowsiness.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio/detect_drowsiness.py)
+### Preview:
+
+## 17. Drowsiness Detection Using Eye Aspect Ratio | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
+### File Name: [detect_drowsiness.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio/detect_drowsiness.py)
+### Preview:
+
+## 18. Drowsiness Detection Using Eye Aspect Ratio | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
 ### File Name: [detect_drowsiness.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio/detect_drowsiness.py)
 ### Preview:
