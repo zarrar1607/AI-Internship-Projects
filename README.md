@@ -39,5 +39,7 @@ https://user-images.githubusercontent.com/61513813/157916990-1da21f8e-f832-4f84-
 ### File Name: [Fire Detection.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Fire%20Detection%20using%20Harcascade/Fire%20Detection.py)
 ### Preview:
 
+## 10. Gesture Detection | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Gesture%20Detection)
+### File Name: [Gesture Detection.ipynb](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Gesture%20Detection/Gesture%20Detection.ipynb)
 
 
