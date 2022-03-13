@@ -1,0 +1,18 @@
+install python 3.6.5 make path settling as a mandatory process and install below files
+
+python -m pip install --upgrade pip
+
+pip install dlib==19.6.1
+
+pip install opencv-python
+
+pip install playsound
+
+pip install imutils
+
+
+if all the above files have been installed just run code in the command window
+
+by placing the below lines and place enter to run the code
+
+python detect_drowsiness.py --shape-predictor shape_predictor_68_face_landmarks.dat
