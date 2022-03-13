@@ -35,5 +35,9 @@ https://user-images.githubusercontent.com/61513813/157916990-1da21f8e-f832-4f84-
 ### Preview:
 ![Lane Detection](https://user-images.githubusercontent.com/61513813/158060850-202adf4e-27f7-4fa7-81e3-7a7be554e273.gif)
 
+## 9. Fire Detection using Harcascade | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Fire%20Detection%20using%20Harcascade)
+### File Name: [Fire Detection.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Fire%20Detection%20using%20Harcascade/Fire%20Detection.py)
+### Preview:
+
 
 
