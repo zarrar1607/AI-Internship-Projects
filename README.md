@@ -21,3 +21,12 @@ https://user-images.githubusercontent.com/61513813/157916990-1da21f8e-f832-4f84-
 ### File Name: [Invisibilty Power.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Live%20ROI%20Invisibility%20Power/Invisibilty%20Power.py)
 ### Preview:
 
+## 6. Face Counting using Harcascade | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Face%20Counting%20using%20Harcascade)
+### File Name: [Face Count.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Face%20Counting%20using%20Harcascade/Face%20Count.py)
+### Preview:
+
+## 7. ROI Selector | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/ROI%20Selector)
+### File Name: [Select ROI.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/ROI%20Selector/Select%20ROI.py)
+### Preview:
+![ROI Selector](https://user-images.githubusercontent.com/61513813/158060133-a2f4b5db-9e3a-4578-a2c8-1ebf00c7a5ce.PNG) ![Selected](https://user-images.githubusercontent.com/61513813/158060145-bbfcd83e-cffc-46e2-b9a8-e687ab367b86.PNG)
+
