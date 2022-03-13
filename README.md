@@ -68,6 +68,7 @@ https://user-images.githubusercontent.com/61513813/157916990-1da21f8e-f832-4f84-
 ## 16. Social Distance Monitoring Using Darknet/YOLO | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Social%20Distance%20Monitoring%20Using%20Yolo)
 ### File Name: [detection.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Social%20Distance%20Monitoring%20Using%20Yolo/pyimagesearch/detection.py)
 ### Preview:
+https://user-images.githubusercontent.com/61513813/158063239-6836da49-3bac-4779-af39-029636a1afe6.mp4
 
 ## 17. Speech Recognition And Text To Speech Conversion | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Speech%20Recognition%20And%20Text%20To%20Speech%20Conversion)
 ### File Name: [speech.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Speech%20Recognition%20And%20Text%20To%20Speech%20Conversion/speech.py) & [tts.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Speech%20Recognition%20And%20Text%20To%20Speech%20Conversion/tts.py)
