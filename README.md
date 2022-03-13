@@ -61,6 +61,8 @@ https://user-images.githubusercontent.com/61513813/157916990-1da21f8e-f832-4f84-
 ## 14. Vehicle Speed Estimation using TensorFlow | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Vehicle%20Speed%20Estimation%20using%20TensorFlow)
 ### File Name: [vehicle_detection_main.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Vehicle%20Speed%20Estimation%20using%20TensorFlow/vehicle_detection_main.py)
 ### Preview:
+https://user-images.githubusercontent.com/61513813/158066871-ef17f8f2-2131-42f6-895f-4a501958c950.mp4
+
 
 ## 15. Traffic Sign Recognition Using Darknet/YOLO | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Traffic%20Sign%20Recognition%20Using%20Darknet)
 ### File Name: [yoloDetect.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Traffic%20Sign%20Recognition%20Using%20Darknet/yoloDetect.py)
