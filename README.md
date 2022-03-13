@@ -30,3 +30,11 @@ https://user-images.githubusercontent.com/61513813/157916990-1da21f8e-f832-4f84-
 ### Preview:
 ![ROI Selector](https://user-images.githubusercontent.com/61513813/158060133-a2f4b5db-9e3a-4578-a2c8-1ebf00c7a5ce.PNG) ![Selected](https://user-images.githubusercontent.com/61513813/158060145-bbfcd83e-cffc-46e2-b9a8-e687ab367b86.PNG)
 
+## 8. Lane Detection using OpenCV | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Lane%20Detection%20using%20OpenCV)
+### File Name: [Lane Detection.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Lane%20Detection%20using%20OpenCV/Lane%20Detection.py)
+### Preview:
+https://user-images.githubusercontent.com/61513813/158060625-277c9998-9813-498e-a769-8bf0bee2c483.mp4
+
+
+
+
