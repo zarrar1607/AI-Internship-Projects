@@ -60,18 +60,22 @@ https://user-images.githubusercontent.com/61513813/157916990-1da21f8e-f832-4f84-
 ### File Name: [detect_drowsiness.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio/detect_drowsiness.py)
 ### Preview:
 
-## 15. Drowsiness Detection Using Eye Aspect Ratio | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
+## 15. Traffic Sign Recognition Using Darknet/YOLO | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
 ### File Name: [detect_drowsiness.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio/detect_drowsiness.py)
 ### Preview:
 
-## 16. Drowsiness Detection Using Eye Aspect Ratio | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
+## 16. Social Distance Monitoring Using Darknet/YOLO | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
 ### File Name: [detect_drowsiness.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio/detect_drowsiness.py)
 ### Preview:
 
-## 17. Drowsiness Detection Using Eye Aspect Ratio | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
+## 17. Speech Recognition And Text To Speech Conversion | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
 ### File Name: [detect_drowsiness.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio/detect_drowsiness.py)
 ### Preview:
 
-## 18. Drowsiness Detection Using Eye Aspect Ratio | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
+## 18. Tokenizing Using NLTK | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
+### File Name: [detect_drowsiness.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio/detect_drowsiness.py)
+### Preview:
+
+## 19. Stemming in NLP | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
 ### File Name: [detect_drowsiness.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio/detect_drowsiness.py)
 ### Preview:
