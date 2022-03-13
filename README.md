@@ -55,6 +55,7 @@ https://user-images.githubusercontent.com/61513813/157916990-1da21f8e-f832-4f84-
 ## 13. Object Recognition - Fashion using TensorFlow | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Object%20Recognition%20-%20Fashion%20using%20TensorFlow)
 ### File Name: [fashion.ipynb](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Object%20Recognition%20-%20Fashion%20using%20TensorFlow/fashion.ipynb)
 ### Preview:
+![image](https://user-images.githubusercontent.com/61513813/158063136-9d7f9f9f-1bc1-4a92-bbc0-167bca4a8429.png)
 
 ## 14. Vehicle Speed Estimation using TensorFlow | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Vehicle%20Speed%20Estimation%20using%20TensorFlow)
 ### File Name: [vehicle_detection_main.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Vehicle%20Speed%20Estimation%20using%20TensorFlow/vehicle_detection_main.py)
