@@ -44,3 +44,10 @@ https://user-images.githubusercontent.com/61513813/157916990-1da21f8e-f832-4f84-
 ### Preview:
 ![image](https://user-images.githubusercontent.com/61513813/158061398-bd21a52d-28da-4eaa-8131-09627a29e91a.png)
 
+## 11. Drowsiness Detection Using Eye Aspect Ratio | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
+### File Name: [detect_drowsiness.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio/detect_drowsiness.py)
+### Preview:
+
+## 12. Drowsiness Detection Using Eye Aspect Ratio | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio)
+### File Name: [detect_drowsiness.py](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Drowsiness%20Detection%20Using%20Eye%20Aspect%20Ratio/detect_drowsiness.py)
+### Preview:
