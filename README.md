@@ -41,5 +41,6 @@ https://user-images.githubusercontent.com/61513813/157916990-1da21f8e-f832-4f84-
 
 ## 10. Gesture Detection | [Link](https://github.com/zarrar1607/AI-Internship-Projects/tree/main/Gesture%20Detection)
 ### File Name: [Gesture Detection.ipynb](https://github.com/zarrar1607/AI-Internship-Projects/blob/main/Gesture%20Detection/Gesture%20Detection.ipynb)
-
+### Preview:
+![image](https://user-images.githubusercontent.com/61513813/158061398-bd21a52d-28da-4eaa-8131-09627a29e91a.png)
 
